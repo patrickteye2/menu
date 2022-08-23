@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(24, 24, 24);
+    display: flex;
+     justify-content: center;
+}
+
+body img{
+    width: auto;
+    max-width: 500px;
+}
